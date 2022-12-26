@@ -44,15 +44,15 @@
  <tbody>
   <tr><td><strong>I. Presentacion del Proyecto:</strong><br>
   <ul>
-    <h1>  Index.html  </h1> 
+    <h1>  FakeWiki  </h1> 
       <p>Gli astrofisici dicono che quasi tutto lóro che ce sulla terra sia arrivato quatro milliardi di anni fa, in una    piogia  di meteoriti. E forse por quel arrivo cosi violento e che questo sia estato sempre un metallo maledeto, per nient'altro si a uciso cosi tanto come per il metallo usato per la proposta di matrimonio. </p>
           <img src="img/imagen.png"/>
        <h2> FakeWiki (I entrega) </h2>
-       <tr><td>https://github.com/EdwinAguilarT/FakeWiki..git</td></tr>
+       <h3>https://github.com/EdwinAguilarT/FakeWiki..git</h3>
        <h2> FakeWiki (II entrega) </h2>
-       <tr><td>https://github.com/EdwinAguilarT/FakeWiki...git</td></tr>
+       <h3>https://github.com/EdwinAguilarT/FakeWiki...git</h3>
        <h2> FakeWiki (III entrega) </h2>
-       <tr><td>https://github.com/EdwinAguilarT/FakeWiki....git</td></tr>
+       <h3>https://github.com/EdwinAguilarT/FakeWiki....git</h3>
  </tbody>
 </table>
 <hr>
