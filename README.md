@@ -26,7 +26,7 @@
  </theader>
  <tbody>
   <tr><td>ASIGNATUA:</td><td colspan="5">Programacion Web 1 </td></tr>
-  <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Proyecto final (I Entrega) <td></tr>
+  <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Proyecto final <td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 12</td><td>AÑO LECTIVO:</td><td>2022-B</td><td>NRO. SEMESTRE:</td><td>II</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td> 21-Dic-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
 
@@ -45,14 +45,15 @@
   <tr><td><strong>I. Presentacion del Proyecto:</strong><br>
   <ul>
     <h1>  FakeWiki  </h1> 
-      <p>Gli astrofisici dicono che quasi tutto lóro che ce sulla terra sia arrivato quatro milliardi di anni fa, in una    piogia  di meteoriti. E forse por quel arrivo cosi violento e che questo sia estato sempre un metallo maledeto, per nient'altro si a uciso cosi tanto come per il metallo usato per la proposta di matrimonio. </p>
+      <p>Este proyecto es para ayudar en la creacion de paginas de web sin nesesidad de tener conocimiento de HTML, ademas las paginas creadas                      pueden ser modificadas, borradas y se almacenan en una base de datos a la se puede acceder creando un usuario y contraseña. </p>
           <img src="img/imagen.png"/>
-       <h2> FakeWiki (I entrega) </h2>
-       <h3>https://github.com/EdwinAguilarT/FakeWiki..git</h3>
-       <h2> FakeWiki (II entrega) </h2>
-       <h3>https://github.com/EdwinAguilarT/FakeWiki...git</h3>
-       <h2> FakeWiki (III entrega) </h2>
-       <h3>https://github.com/EdwinAguilarT/FakeWiki....git</h3>
+       <h2> Aqui se muestran los repositorios de avance del proyecto en tres partes </h2>
+       <h3> FakeWiki (I entrega) </h3>
+       <h4>https://github.com/EdwinAguilarT/FakeWiki..git</h4>
+       <h3> FakeWiki (II entrega) </h3>
+       <h4>https://github.com/EdwinAguilarT/FakeWiki...git</h4>
+       <h3> FakeWiki (III entrega) </h3>
+       <h4>https://github.com/EdwinAguilarT/FakeWiki....git</h4>
  </tbody>
 </table>
 <hr>
