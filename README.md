@@ -27,7 +27,7 @@
  <tbody>
   <tr><td>ASIGNATUA:</td><td colspan="5">Programacion Web 1 </td></tr>
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Proyecto final <td></tr>
-  <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 12-13-15</td><td>AÑO LECTIVO:</td><td>2022-B</td><td>NRO. SEMESTRE:</td><td>II</td></tr>
+  <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 12-13-14</td><td>AÑO LECTIVO:</td><td>2022-B</td><td>NRO. SEMESTRE:</td><td>II</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td> 26-Dic-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">6:30 p.m.</td></tr>
 
 
@@ -47,6 +47,9 @@
     <h1>  FakeWiki  </h1> 
       <p>Este proyecto es para ayudar en la creacion de paginas de web sin nesesidad de tener conocimiento de HTML, ademas las paginas creadas                      pueden ser modificadas, borradas y se almacenan en una base de datos a la se puede acceder creando un usuario y contraseña. </p>
           <img src="img/imagen.png"/>
+     <h1>  Videos  </h1> 
+      <p>Videos de demostracion del proyecto</p>
+          <h4>https://drive.google.com/drive/folders/1dTh97aYSjkbSgnIaEkoZzHivUoG9BIaZ?usp=sharing</h4>     
        <h2> Aqui se muestran los repositorios de avance del proyecto en tres partes </h2>
        <h3> FakeWiki (I entrega) </h3>
        <h4>https://github.com/EdwinAguilarT/FakeWiki..git</h4>
